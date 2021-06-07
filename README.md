@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# NPCSoundPlugin
+A plugin to disable sounds from specific NPC's
